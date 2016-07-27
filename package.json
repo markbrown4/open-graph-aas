@@ -1,0 +1,19 @@
+{
+  "name": "open-graph-aas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markbrown4/open-graph-aas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markbrown4/open-graph-aas/issues"
+  },
+  "homepage": "https://github.com/markbrown4/open-graph-aas#readme"
+}
